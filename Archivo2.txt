@@ -1,4 +1,2 @@
-Texto1
-Texto2
-Texto4
-Cambio branch2
+linea 1 Archivo 2
+linea 2 Archivo 2
