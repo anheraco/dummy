@@ -1,2 +1,4 @@
 linea 1 Archivo 1
 linea 2 Archivo 1
+linea 3 Archivo 1 branch 2
+linea 4 Archivo 1 branch 2
